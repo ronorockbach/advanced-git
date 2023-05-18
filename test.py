@@ -1,2 +1,3 @@
 print("Hello world")
-print("Hide my files")
+for i in range(10):
+    print(i)
